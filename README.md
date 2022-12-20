@@ -23,7 +23,7 @@ We have created an application that can be able to work on ‘n’ number of com
 1.	Open any browser and type the host address, port number, filename in the format given below,
 192.168.88.172:8080/bio.html
 
-2.	There will be a login page in which the user needs to enter the correct password.
+2.	There will be a login page in which the user needs to enter the correct password --->" codered ".
 
 3.	After that, there will be a Capcha Verification, then the home page of ‘ChatsApp’ is displayed.
 
